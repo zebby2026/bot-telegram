@@ -5,7 +5,7 @@ from threading import Thread
 import telebot
 
 # Sostituisci con il TOKEN ottenuto da BotFather
-TOKEN = '8969737938:AAEko32C0LKCt3f5EsuTgvCh3zzE_en_2II'
+TOKEN = '8969737938:AAGbi3iIYO-XmHDY86_ZBuqkUvWvi-ROEOY'
 bot = telebot.TeleBot(TOKEN)
 
 # Web Server per mantenere sveglio Render
